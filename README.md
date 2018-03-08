@@ -1,2 +1,2 @@
-# Nesting-Loop-
-Recursion Day 2 - Nesting Loop Assignment
+# Nesting Doll Assignment
+Recursion Day 2 - Nesting Doll Assignment
